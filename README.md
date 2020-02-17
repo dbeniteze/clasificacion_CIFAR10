@@ -1,7 +1,7 @@
 # clasificacion_CIFAR10
 Pruebas de clasificación sobre CIFAR10 con diferentes enfoques 
 
-Pruebas sobre CIFAR10 con data augmentation, activación ELU[2] y LeakyELU, bloques BatchoNorm + Dropout[1]
+Pruebas sobre CIFAR10 con data augmentation, activación ELU[2] y LeakyELU, bloques BatchNorm + Dropout[1]
 y variación de parámetrs de la red con learning rate variable según aumentan las épocas.
 
 Futuras pruebas: uso de autoAugment para la mejora de data augmentation
