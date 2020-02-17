@@ -4,6 +4,7 @@ Pruebas de clasificación sobre CIFAR10 con diferentes enfoques
 Pruebas sobre CIFAR10 con data augmentation, activación ELU[2] y LeakyELU, bloques BatchoNorm + Dropout[1]
 y variación de parámetrs de la red con learning rate variable según aumentan las épocas.
 
+Futuras pruebas: uso de autoAugment para la mejora de data augmentation
 
 
 [1][Rethinking the Usage of Batch Normalization and Dropout in the Training of Deep Neural Networks](https://arxiv.org/pdf/1905.05928.pdf)
